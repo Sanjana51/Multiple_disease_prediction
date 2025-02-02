@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore model files (add any large files you want to exclude)
+*.sav
+*.h5
+*.pkl
+
+# Ignore logs
+*.log
+
+# Ignore environment variables
+.env
+
+# Ignore VS Code settings
+.vscode/
